@@ -16,11 +16,11 @@
 
           }
 body{
-      font-family:'Poppins',Verdana, Sans-serif;
+      font-family:'Roboto',Verdana, Sans-serif;
       animation: fadeIn;
       background-color:black;
       animation-duration: 5s;
-      background: url(..\img\guitarra.jpeg);
+      background: url(../img/imagen-asado.jpg);
       background-size:cover;
       background-attachment: fixed;
 }
@@ -31,4 +31,9 @@ body{
           background-size: cover;
 }
 
-.articulo {color: white;font-family: 'Roboto';}important!
+.titulo {color: white;font-family: 'Roboto' !important;}
+.letraroboto{color:inherit;font-family: 'Roboto' !important;}
+.cuadrito{border:1px solid black;
+padding:1px}
+
+.sintransparencia{opacity:1 !important;}
