@@ -31,7 +31,9 @@ body{
           background-size: cover;
 }
 
-.titulo {color: white;font-family: 'Roboto';}important!
-.letraroboto{color:inherit;font-family: 'Roboto';}important!
+.titulo {color: white;font-family: 'Roboto' !important;}
+.letraroboto{color:inherit;font-family: 'Roboto' !important;}
 .cuadrito{border:1px solid black;
 padding:1px}
+
+.sintransparencia{opacity:1 !important;}
