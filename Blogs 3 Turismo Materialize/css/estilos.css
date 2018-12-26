@@ -1,0 +1,16 @@
+  @keyframes fadeIn {
+                    0% {opacity: 0;}
+                    100% {opacity: 0.90;}
+                                  }
+  body{
+        font-family:'Roboto',Verdana, Sans-serif;
+        animation: fadeIn;
+        background-color:black;
+        animation-duration: 5s;
+        background: url(../img/fondo-turismo.jpg);
+        background-size:cover;
+        background-attachment: fixed;
+        opacity: 0.90;
+                                  }
+
+.contenedor{margin-left:2%; margin-right:2%;margin-top:2%;}
