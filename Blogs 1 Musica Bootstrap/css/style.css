@@ -20,7 +20,7 @@ body{
       animation: fadeIn;
       background-color:black;
       animation-duration: 5s;
-      background: url(..\img\guitarra.jpeg);
+      background:url(../img/guitarra.jpeg);
       background-size:cover;
       background-attachment: fixed;
 }
